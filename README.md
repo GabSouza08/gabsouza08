@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Gabriel!
 
-<!--
-**GabSouza08/gabsouza08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a first-year Computer Engineering student at UFPB with a passion for all things hardware and tech. As a hobbyist computer technician, I love disassembling, fixing, and bringing new life to computers and consoles—my latest project was reviving not just my own, but also my cousin’s classic PS2!
 
-Here are some ideas to get you started:
+While I’m just starting my academic journey, I’m driven by the idea of helping people and restoring projects that might otherwise be forgotten. I’m always eager to learn, tinker, and contribute wherever I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Computer hardware & repair
+- Reviving and preserving old tech
+- Racing games & racing in general
+- Exploring how computers work under the hood
+
+Feel free to connect or reach out if you share any of these interests or have cool projects in mind!
